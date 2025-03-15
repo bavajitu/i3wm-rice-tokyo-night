@@ -1,4 +1,10 @@
 # i3-WM config: Tokyo Night Theme
+
+## Screenshots:
+![My Image](2025-03-15_10-16.png)
+![My Image](2025-03-15_10-18.png)
+
+
 ## Major dependencies used:
 - Alacritty: A GPU based terminal emulator
 - Neovim: A terminal based text editor
